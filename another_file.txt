@@ -1,1 +1,2 @@
 Hello other file
+Here is another text
